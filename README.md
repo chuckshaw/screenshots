@@ -1,6 +1,6 @@
-# screenshots
+# Screenshots
 
-Image from Tucson newspaper showing the Secure Border C3ICop command and control software running.
+Image from Tucson newspaper showing the former Department of Homeland Security Secretary Janet Napolitano getting a demo of the Secure Border C3ICop command and control software running.
 
 ![Alt text](C3ICop/02212012nap_5f7_5f1_5fhires.jpg)
 
