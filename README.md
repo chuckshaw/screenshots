@@ -1,7 +1,10 @@
 # screenshots
 
-EVE is a comprehensive suite of tools and applications that allow for the management and manipulation of an Electro-Optical Payload.
+Image from Tucson newspaper showing the Secure Border C3ICop command and control software running.
 
+![Alt text](C3ICop/02212012nap_5f7_5f1_5fhires.jpg)
+
+EVE is a comprehensive suite of tools and applications that allow for the management and manipulation of an Electro-Optical Payload.
 
 ![Alt text](EVE/Screen Shot 2013-06-26 at 9.03.45 PM.png)
 ![Alt text](EVE/Screen Shot 2013-06-26 at 8.59.11 PM.png)
