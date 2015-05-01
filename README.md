@@ -13,5 +13,5 @@ Generic ICD simulation server that provides a web-based UI control console.
 ![Alt text](Simulator/Untitled3.png)
 ![Alt text](Simulator/Untitled4.png)
 ![Alt text](Simulator/Untitled5.png)
-![Alt text](Simulator/Untitled6.pngg)
-![Alt text](Simulator/Untitled7.png)
+![Alt text](Simulator/Untitled6.png)
+
