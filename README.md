@@ -1,5 +1,9 @@
 # Screenshots
 
+Image from a DHP presentation by Assistant Commissioner and Chief Acquisition Executive Mark S. Borkowski that was posted online.  This image is of an early 2008 version of the Secure Border C3ICop command and control software.
+
+![Alt text](C3ICop/C3ICop.png)
+
 Image from Tucson newspaper showing the former Department of Homeland Security Secretary Janet Napolitano getting a demo of the Secure Border C3ICop command and control software.
 
 ![Alt text](C3ICop/02212012nap_5f7_5f1_5fhires.jpg)
