@@ -10,8 +10,8 @@ Image from Tucson newspaper showing the former Department of Homeland Security S
 
 EVE is a comprehensive suite of tools and applications that allow for the management and manipulation of an Electro-Optical Payload.
 
-![Alt text](EVE/Screen Shot 2013-06-26 at 9.03.45 PM.png)
-![Alt text](EVE/Screen Shot 2013-06-26 at 8.59.11 PM.png)
+![Alt text](EVE/Screen%20Shot%202013-06-26%20at%209.03.45%20PM.png)
+![Alt text](EVE/Screen%20Shot%202013-06-26%20at%208.59.11%20PM.png)
 
 Generic ICD simulation server that provides a web-based UI control console.
 
